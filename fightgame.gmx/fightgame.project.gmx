@@ -5,9 +5,18 @@
   </Configs>
   <NewExtensions/>
   <sounds name="sound"/>
-  <sprites name="sprites"/>
-  <backgrounds name="background"/>
+  <sprites name="sprites">
+    <sprite>sprites\ryu_neutral_stand</sprite>
+    <sprite>sprites\ryu_walk_foward</sprite>
+    <sprite>sprites\sprite2</sprite>
+  </sprites>
+  <backgrounds name="background">
+    <background>background\background0</background>
+  </backgrounds>
   <paths name="paths"/>
+  <objects name="objects">
+    <object>objects\object0</object>
+  </objects>
   <rooms name="rooms">
     <room>rooms\sdhf</room>
   </rooms>
